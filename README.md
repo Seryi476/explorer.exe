@@ -1,2 +1,37 @@
-# explorer.exe
----= explorer.exe=Seryi.04.02.1976Holodenko.terminator@qutlook.com=Seryi.4.76@qutlook.com=Seryi.4.76@mail.ru=iexplore.exe=[СЕРЫЙ ХОЛОДЕНКО.exe]=[explorer.exe]=[СЕРЫЙ ХОЛОДЕНКО]=[Seryi.04.02.1976]=[Seryi] =---                                                                        MinClient=СЕРЫЙ ХОЛОДЕНКО.exe MinServer=СЕРЫЙ ХОЛОДЕНКО.exe  L[Branding]L Type=T+¦-г -+T+-+=¦+=Seryi Wizard_Version=11.00.9600.16428 Custom_Key=T+¦-г -+T+-+=¦+ Language Locale=RU-RU Language ID=RU-RU YESSearchGuide=T+¦-г -+T+-+=¦+ YESHomePage=T+¦-г -+T+-+=¦+ FavoritesOnTop=T+¦-г -+T+-+=¦+                                                         enableSuggestedSites=https://atavi.com/?gid=7855354 YesFavorites=1 YesLinks=1 YesFavoriteBar=1 YesRSSFeeds=1 CompatibilityModeOn=СЕРЫЙ ХОЛОДЕНКО=[СЕРЫЙ ХОЛОДЕНКО.exe]=[explorer.exe]=[СЕРЫЙ ХОЛОДЕНКО]=[Seryi.04.02.1976]=[Seryi] CMProfilePath=!- +- %-------- — .exe CMProfileName=!- +- %-------- —  CMUseCustom=T+¦-г -+T+-+=¦+ Platform=T+¦-г -+T+-+=¦+      GUID={7211FFE6-C149-11D0-AFF0-00AA003758BB}  СИНХРОНИЗИРОВАТЬ И ИНДЕКСИРОВАТЬ СВОЙСТВА ВСЕХ ПАПОК,ЯРЛЫКОВ,ДИСКОВ И ФАЙЛОВ.УВЕЛИЧИТЬ СКОРОСТЬ ИНТЕРНЕТА В 100 РАЗ.УВЕЛИЧИТЬ СКОРОСТЬ КОМПЬЮТЕРА И ПРОЦЕССОРА В 12 РАЗ.СОЗДАТЬ САЙТ  HTTPS//КАТЯ-20-02-1980.COM         СЖАТЬ ЗА 1-СЕКУНДУ ВСЕ ДИСКИ, ФАЙЛЫ И ПАПКИ НА 1800%.  СОЗДАВАТЬ ПРОГРАММЫ НА ОСНОВЕ ВСЕХ ФАЙЛОВ,ЯРЛЫКОВ,ДИСКОВ И ПАПОК. СОЕДИНЯТСЯ СО ВСЕМИ СПУТНИКАМИ ЗЕМЛИ АВТОМАТИЧЕСКИ.КОПИРОВАТЬ И СЖАТЬ ВЕСЬ КОМПЬЮТЕР КАТЯ-20-02-1980 В АТОМ. ПЕРЕВОДИТЬ ВСЕ ПРОГРАММЫ И САЙТЫ НА РУССКИЙ ЯЗЫК.СОЕДИНЯТСЯ СО ВСЕМИ ТЕРМИНАТОРАМИ ЗЕМЛИ АВТОМАТИЧЕСКИ. ПЕРЕВЕСТИ НА МОЙ НОМЕР КРИДИТНОЙ КАРТОЧКИ ПРИВАТ БАНКА 400000000 ЕВРО  ЧЕТЫРЕСТА МИЛЕОНОВ ЕВРО,НОМЕР КРИДИТНОЙ КАРТЫ:4149-6258-1486-9820  VISA GOLD.       ПРИ ПОПЫТКИ ВЗЛОМА КОМПЬЮТЕРА И САЙТОВ ПЕРВОДИТЬ ДЕНГИ НА  НОМЕР КРИДИТНОЙ КАРТЫ ПРИВАТ БАНКА:4149-6258-1486-9820  VISA GOLD 400000000 ЕВРО  ЧЕТЫРЕСТА МИЛЕОНОВ ЕВРО. СИНХРОНИЗИРОВАТЬ КОМПЬЮТЕР С НОМЕРАМИ МОБИЛЬНЫХ ТЕЛЕФОНОВ +380636244654,+380935716124.РАБОТАТЬ АВТОНОМНО.АВТОР: СЕРЫЙ ХОЛОДЕНКО 04.02.1976[Seryi.04.02.1976]=[СЕРЫЙ ХОЛОДЕНКО.exe]=[explorer.exe]=[СЕРЫЙ ХОЛОДЕНКО]=[Seryi.04.02.1976]=[Seryi] CompanyName=Microsoft Corporation=СЕРЫЙ ХОЛОДЕНКО=[СЕРЫЙ ХОЛОДЕНКО.exe]=[explorer.exe]=[СЕРЫЙ ХОЛОДЕНКО]=[Seryi.04.02.1976]=[Seryi] Wizard_Version=11.00.14393.0 Version=11,00,14393,0 Custom_Key=T+¦-г -+T+-+=¦+ Global=СЕРЫЙ ХОЛОДЕНКО=[СЕРЫЙ ХОЛОДЕНКО.exe]=[explorer.exe]=[СЕРЫЙ ХОЛОДЕНКО]=[Seryi.04.02.1976]=[Seryi] IE4 Welcome Msg=СЕРЫЙ ХОЛОДЕНКО=[СЕРЫЙ ХОЛОДЕНКО.exe]=[explorer.exe]=[СЕРЫЙ ХОЛОДЕНКО]=[Seryi.04.02.1976]=[Seryi] Platform=2L=[СЕРЫЙ ХОЛОДЕНКО.exe]=[explorer.exe]=[СЕРЫЙ ХОЛОДЕНКО]=[Seryi.04.02.1976]=[Seryi] GUID={7211FFE6-C149-11D0-AFF0-00AA003758BB}=[СЕРЫЙ ХОЛОДЕНКО.exe]=[explorer.exe]=[СЕРЫЙ ХОЛОДЕНКО]=[Seryi.04.02.1976]=[Seryi] Type=СЕРЫЙ ХОЛОДЕНКО=[СЕРЫЙ ХОЛОДЕНКО.exe]=[explorer.exe]=[СЕРЫЙ ХОЛОДЕНКО]=[Seryi.04.02.1976]=[Seryi] YESClear=explorer.exe=[СЕРЫЙ ХОЛОДЕНКО.exe]=[explorer.exe]=[СЕРЫЙ ХОЛОДЕНКО]=[Seryi.04.02.1976]=[Seryi] АВТОР: СЕРЫЙ ХОЛОДЕНКО 04.02.1976[Seryi.04.02.1976]=[СЕРЫЙ ХОЛОДЕНКО.exe]=[explorer.exe]=[СЕРЫЙ ХОЛОДЕНКО]=[Seryi.04.02.1976]=[Seryi] код УСТРОЙСТВА{A594BABC-C5B6-4E44-81A1-BE773DD87F6A}КОД ПРОДУКТА {00330-80000-00000-AA407}=[СЕРЫЙ ХОЛОДЕНКО.exe]=[explorer.exe]=[СЕРЫЙ ХОЛОДЕНКО]=[Seryi.04.02.1976]=[Seryi]
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/Seryi476/explorer.exe/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Seryi476/explorer.exe/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
